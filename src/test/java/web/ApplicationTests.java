@@ -1,4 +1,4 @@
-package ru.academykata.spring_boot_spring_security_rest;
+package web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

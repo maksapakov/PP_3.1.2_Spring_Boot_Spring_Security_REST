@@ -1,4 +1,4 @@
-package ru.academykata.spring_boot_spring_security_rest;
+package web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
